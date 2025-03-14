@@ -11,7 +11,7 @@ export const Projects = () =>{
 
                         <div className="p-6 rounded-xl border border-cyan-500/10 hover:-translate-y-1 hover:border-cyan-500 hover:shadow-sm hover:shadow-cyan-500 transition-all">
 
-                            <img className="w-full h-48 object-cover rounded-lg mb-4" src="/public/img/project-1.png" alt="" />
+                            <img className="w-full h-48 object-cover rounded-lg mb-4" src="/img/project-1.png" alt="" />
 
                             <h3 className="font-bold text-xl mb-2">Service Platform</h3>
 
@@ -31,7 +31,7 @@ export const Projects = () =>{
 
                         <div className="p-6 rounded-xl border border-cyan-500/10 hover:-translate-y-1 hover:border-cyan-500 hover:shadow-sm hover:shadow-cyan-500 transition-all">
 
-                            <img className="w-full h-48 object-cover rounded-lg mb-4" src="/public/img/project-2.png" alt="" />
+                            <img className="w-full h-48 object-cover rounded-lg mb-4" src="/img/project-2.png" alt="" />
 
                             <h3 className="font-bold text-xl mb-2">Decentralized Game Shop</h3>
 
@@ -51,7 +51,7 @@ export const Projects = () =>{
 
                         <div className="p-6 rounded-xl border border-cyan-500/10 hover:-translate-y-1 hover:border-cyan-500 hover:shadow-sm hover:shadow-cyan-500 transition-all">
 
-                            <img className="w-full h-48 object-cover rounded-lg mb-4" src="/public/img/project-3.png" alt="" />
+                            <img className="w-full h-48 object-cover rounded-lg mb-4" src="/img/project-3.png" alt="" />
 
                             <h3 className="font-bold text-xl mb-2">Flower Shop</h3>
 
